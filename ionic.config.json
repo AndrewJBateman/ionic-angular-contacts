@@ -1,5 +1,7 @@
 {
   "name": "ionic-angular-contacts",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }

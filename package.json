@@ -19,10 +19,16 @@
     "@angular/platform-browser": "~8.1.2",
     "@angular/platform-browser-dynamic": "~8.1.2",
     "@angular/router": "~8.1.2",
+    "@ionic-native/call-number": "^5.17.1",
+    "@ionic-native/contacts": "^5.17.1",
     "@ionic-native/core": "^5.0.0",
+    "@ionic-native/sms": "^5.17.1",
     "@ionic-native/splash-screen": "^5.0.0",
     "@ionic-native/status-bar": "^5.0.0",
     "@ionic/angular": "^4.7.1",
+    "call-number": "^1.0.1",
+    "cordova-plugin-contacts": "^3.0.1",
+    "cordova-sms-plugin": "^1.0.0",
     "core-js": "^2.5.4",
     "rxjs": "~6.5.1",
     "tslib": "^1.9.0",
@@ -54,5 +60,12 @@
     "tslint": "~5.15.0",
     "typescript": "~3.4.3"
   },
-  "description": "An Ionic project"
+  "description": "An Ionic project",
+  "cordova": {
+    "plugins": {
+      "cordova-plugin-contacts": {},
+      "mx.ferreyra.callnumber": {},
+      "cordova-sms-plugin": {}
+    }
+  }
 }
