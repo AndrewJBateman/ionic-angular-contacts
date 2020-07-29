@@ -1,40 +1,44 @@
-# Ionic Angular Contacts
+# :zap: Ionic Angular Contacts
 
-App to view and add contacts to phone native contacts list using the [Ionic 5 framework](https://ionicframework.com/docs). This is another great Ionic Quick Win from [Simon Grimm IonicAcademy Youtube video 'Ionic 4 Native Contact Management (Call, SMS)'](https://www.youtube.com/watch?v=a8vOLMcOg68).
+* App to view and add contacts to phone native contacts list using the [Ionic 5 framework](https://ionicframework.com/docs). This is another great Ionic Quick Win from [Simon Grimm IonicAcademy Youtube video 'Ionic 4 Native Contact Management (Call, SMS)'](https://www.youtube.com/watch?v=a8vOLMcOg68).
 
-## Table of contents
+## :page_facing_up: Table of contents
 
-* [General info](#general-info)
-* [Screenshots](#screenshots)
-* [Technologies](#technologies)
-* [Setup](#setup)
-* [Features](#features)
-* [Status](#status)
-* [Inspiration](#inspiration)
-* [Contact](#contact)
+* [:zap: Ionic Angular Contacts](#zap-ionic-angular-contacts)
+  * [:page_facing_up: Table of contents](#page_facing_up-table-of-contents)
+  * [:books: General info](#books-general-info)
+  * [:camera: Screenshots](#camera-screenshots)
+  * [:signal_strength: Technologies](#signal_strength-technologies)
+  * [:floppy_disk: Setup](#floppy_disk-setup)
+  * [:computer: Code Examples](#computer-code-examples)
+  * [:cool: Features](#cool-features)
+  * [:clipboard: Status & To-do list](#clipboard-status--to-do-list)
+  * [:clap: Inspiration](#clap-inspiration)
+  * [:envelope: Contact](#envelope-contact)
 
-## General info
+## :books: General info
 
-App lists all contacts from the phone Contacts list and a contact can be added. The user can also call or send an sms to a contact.
+* App lists all contacts from the phone Contacts list and a contact can be added. The user can also call or send an sms to a contact.
 
-## Screenshots
+## :camera: Screenshots
 
 ![screenshot](./img/bootstrap.png)
 ![screenshot](./img/categories.png)
 
-## Technologies
+## :signal_strength: Technologies
 
-* [Ionic v5.17.1](https://ionicframework.com/)
-* [Ionic/angular v4.7.1](https://ionicframework.com/)
-* [Cordova plugin Contacts v3.0.1](https://github.com/apache/cordova-plugin-contacts)
-* [Cordova plugin sms v1.0.0](https://github.com/cordova-sms/cordova-sms-plugin)
-* [Cordova plugin call number v1.0.1](https://github.com/Rohfosho/CordovaCallNumberPlugin)
+* [Ionic v5](https://ionicframework.com/)
+* [Ionic/angular v5](https://ionicframework.com/)
+* [Angular framework v10](https://angular.io/)
+* [Cordova plugin Contacts v5](https://github.com/apache/cordova-plugin-contacts)
+* [Cordova plugin sms v5](https://github.com/cordova-sms/cordova-sms-plugin)
+* [Cordova plugin call number v5](https://github.com/Rohfosho/CordovaCallNumberPlugin)
 
-## Setup
+## :floppy_disk: Setup
 
 * To start the server on _localhost://8100_ type: 'ionic serve'
 
-## Code Examples
+## :computer: Code Examples
 
 * function to load all contacts so they can be shown on-screen as a list.
 
@@ -53,20 +57,19 @@ loadContacts() {
 }
 ```
 
-## Features
+## :cool: Features
 
 * User can call a contact or send them an sms.
 
-## Status & To-do list
+## :clipboard: Status & To-do list
 
 * Status: Compiles and displays in simulator on 'ionic serve --devapp'. Needs to be installed on device to test it.
-
 * To-do: Deploy to device and test.
 
-## Inspiration
+## :clap: Inspiration
 
-[Simon Grimm IonicAcademy Youtube video 'Ionic 4 Native Contact Management (Call, SMS)'](https://www.youtube.com/watch?v=a8vOLMcOg68)
+* [Simon Grimm IonicAcademy Youtube video 'Ionic 4 Native Contact Management (Call, SMS)'](https://www.youtube.com/watch?v=a8vOLMcOg68)
 
-## Contact
+## :envelope: Contact
 
-Repo created by [ABateman](https://www.andrewbateman.org) - feel free to contact me!
+* Repo created by [ABateman](https://www.andrewbateman.org) - you are welcome to [send me a message](https://andrewbateman.org/contact)
