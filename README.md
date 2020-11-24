@@ -29,13 +29,14 @@
 
 * [Ionic v5](https://ionicframework.com/)
 * [Ionic/angular v5](https://ionicframework.com/)
-* [Angular framework v10](https://angular.io/)
-* [Cordova plugin Contacts v5](https://github.com/apache/cordova-plugin-contacts)
+* [Angular framework v11](https://angular.io/)
+* [Cordova plugin Contacts v5](https://github.com/apache/cordova-plugin-contacts). This plugin is being deprecated
 * [Cordova plugin sms v5](https://github.com/cordova-sms/cordova-sms-plugin)
 * [Cordova plugin call number v5](https://github.com/Rohfosho/CordovaCallNumberPlugin)
 
 ## :floppy_disk: Setup
 
+* Install dependencies using `npm i`
 * To start the server on _localhost://8100_ type: 'ionic serve'
 
 ## :computer: Code Examples
