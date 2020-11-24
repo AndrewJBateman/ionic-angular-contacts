@@ -22,8 +22,7 @@
 
 ## :camera: Screenshots
 
-![screenshot](./img/bootstrap.png)
-![screenshot](./img/categories.png)
+* tba
 
 ## :signal_strength: Technologies
 
