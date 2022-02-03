@@ -1,6 +1,7 @@
 # :zap: Ionic Angular Contacts
 
-* App to view and add contacts to phone native contacts list using the [Ionic 5 framework](https://ionicframework.com/docs). This is another great Ionic Quick Win from [Simon Grimm IonicAcademy Youtube video 'Ionic 4 Native Contact Management (Call, SMS)'](https://www.youtube.com/watch?v=a8vOLMcOg68).
+* App to view and add contacts to phone native contacts list using the [Ionic framework](https://ionicframework.com/docs).
+* Another great Ionic Quick Win from [Simon Grimm IonicAcademy Youtube video 'Ionic 4 Native Contact Management (Call, SMS)'](https://www.youtube.com/watch?v=a8vOLMcOg68) with updates
 * **Note:** to open web links in a new window use: _ctrl+click on link_
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/AndrewJBateman/ionic-angular-contacts?style=plastic)
@@ -29,13 +30,13 @@
 
 ## :camera: Screenshots
 
-* tba
+![Example screenshot](./img/home.png)
 
 ## :signal_strength: Technologies
 
-* [Ionic v5](https://ionicframework.com/)
-* [Ionic/angular v5](https://ionicframework.com/)
-* [Angular framework v12](https://angular.io/)
+* [Ionic v6](https://ionicframework.com/)
+* [Ionic/angular v6](https://ionicframework.com/)
+* [Angular framework v13](https://angular.io/)
 * [Cordova plugin Contacts v3](https://github.com/apache/cordova-plugin-contacts). This plugin is being deprecated
 * [Cordova plugin sms v1](https://github.com/cordova-sms/cordova-sms-plugin)
 * [Cordova plugin call number v1](https://github.com/Rohfosho/CordovaCallNumberPlugin)
